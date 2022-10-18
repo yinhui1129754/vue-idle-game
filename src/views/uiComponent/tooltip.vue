@@ -43,7 +43,7 @@ export default {
 .c-tooltip-tip {
   bottom:-.05rem;
   position: absolute;
-  left:50%;
+  left:100%;
   transform: translate(-50%,100%);
   min-width: 2rem;
   border: 1px solid #fff;

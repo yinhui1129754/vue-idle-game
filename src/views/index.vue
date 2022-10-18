@@ -1566,6 +1566,7 @@ a {
   border: 2px solid #ccc;
   height: 3.5rem;
   padding: 0.1rem;
+  overflow: auto;
   .info {
     padding: 0.1rem 0.2rem;
     font-size: 0.12rem;
